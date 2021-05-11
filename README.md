@@ -1,5 +1,5 @@
-# Music App Using Jquery, PHP, Ajax
-This is a dynamic music player created in HTML, CSS, Jquery and PHP.
+# Music App Using JavaScript, PHP, Ajax
+This is a dynamic music player created in HTML, CSS, Jquery(javaScript library) and PHP.
 
 ### Light Theme
 ![Output](/images/music_player.png)
@@ -8,7 +8,7 @@ This is a dynamic music player created in HTML, CSS, Jquery and PHP.
 
 ## Running the player
 - Create a database music_app 
-- Import the music_app.sql to the phpmyadmin
+- Import the music_app.sql to the database 'music_app'
 - Download the file and extract inside the xampp/htdocs
 - Run the app using http://localhost/music_app
 
